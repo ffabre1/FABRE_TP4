@@ -12,6 +12,7 @@
  */
 
 #include <cstdlib>
+#include <iostream>
 
 using namespace std;
 
@@ -21,6 +22,7 @@ using namespace std;
 int main(int argc, char** argv) {
     cout <<"bonjour"<<endl;
     cout<<"SNIR"<<endl;
+    cout<<"salut"<<endl;
     return 0;
 }
 
